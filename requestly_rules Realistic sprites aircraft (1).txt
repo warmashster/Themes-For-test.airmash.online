@@ -1,0 +1,24 @@
+[
+  {
+    "creationDate": 1584785025757,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_1584785025757",
+    "isSample": false,
+    "name": "Realistic sprite aircraft ",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/RealisticSprites/aircraft.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/aircraft.png*"
+        }
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active"
+  }
+]

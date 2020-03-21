@@ -1,0 +1,57 @@
+[
+  {
+    "creationDate": 1584784408944,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_1584784408944",
+    "isSample": false,
+    "name": "Realistic sprites rock",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/RealisticSprites/map_rock.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_rock.jpg*"
+        }
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active"
+  },
+  {
+    "creationDate": 1568920526800,
+    "description": "",
+    "groupId": "",
+    "id": "Script_1568920526800",
+    "isSample": false,
+    "name": "Zoom",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "libraries": [
+          "JQUERY",
+          "UNDERSCORE"
+        ],
+        "scripts": [
+          {
+            "codeType": "js",
+            "loadTime": "afterPageLoad",
+            "type": "code",
+            "value": "javascript:(()=>{config.scalingFactor = 6000;Graphics.resizeRenderer(window.innerWidth,window.innerHeight);})()"
+          }
+        ],
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Equals",
+          "value": "https://airmash.online/"
+        }
+      }
+    ],
+    "ruleType": "Script",
+    "status": "Active"
+  }
+]
