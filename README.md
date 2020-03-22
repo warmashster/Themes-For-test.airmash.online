@@ -25,4 +25,4 @@ The Steps:
 6. Go to [airma.sh](https://test.airmash.online/) and hit `CTRL+F5` ( Mac users: Hold down both `⌘ Cmd`+`⇧ Shift` and press `R`)
 7. Enjoy!
 # How many of these files can you use?
-If you download two Theme (or more) you can only upload one file per time in requestly rules.
+If you download two Theme (or more) you can upload both (Or more) file (s) theme in requestly rules. You have to leave only one on and turn the other ones off.
