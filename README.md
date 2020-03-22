@@ -17,12 +17,16 @@ The Steps:
     - [Chrome users](https://chrome.google.com/webstore/detail/requestly/mdnleldcmiljblolnjhpnblkcekpdkpa)
     - [Firefox users](https://www.requestly.in/firefox/builds/requestly-latest.xpi)
     - Once installed, it will show as a blue `r` icon, next to your address bar.
-2. How to Download the type of theme file you want [from this link](https://youtu.be/yirtFUMG6ZQ). 
-4. I recommend you watch the full video and do the same steps i did for the other theme files.  
+2. I recommend you watch the full video and do the same steps i did for the other theme files.  
 3. Click the `r` button, and the configuration page for Requestly will open.
 4. Choose the blue button (Upload), and select the file you downloaded, "requestly_rules.txt".
 5. You can now close this tab.
 6. Go to [airma.sh](https://test.airmash.online/) and hit `CTRL+F5` ( Mac users: Hold down both `⌘ Cmd`+`⇧ Shift` and press `R`)
-7. Enjoy!
+7. How to Download the type of theme file you want Chrome users [from this link](https://youtu.be/yirtFUMG6ZQ). 
+8. Enjoy!
+
 # How many of these files can you use?
 If you download two Theme (or more) you can upload both (Or more) file (s) theme in requestly rules. You have to leave only one on and turn the other ones off.
+# Why can't I edit airmash [Airmash](https://test.airmash.online/)(Missile, Upg,) and also [Airmash](https://test.airmash.online/) Particles?
+I can't edit [Airmash](https://test.airmash.online/) items lately because there has been a new Upgrade box and a New Missile (Carrot).
+I can't edit airmash Particles because Requestly rules does not allow me, if you try it's not gonna work.
