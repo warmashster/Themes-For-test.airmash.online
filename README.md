@@ -2,7 +2,6 @@
 Hi! Welcome
 This is only for if You use [Starma.sh](https://starma.sh/)  for the Theme graphics, and if you quit [Starma.sh](https://starma.sh/) because of lag lately, but admired the graphic of the Theme. 
 
-I can't edit [Airmash](https://test.airmash.online/) items lately because there are a new Upgrade box and a Carrot Missile.
 # **HOW TO USE THESE FILES?**
 
 Easy! Just follow these simple steps, and you will be done faster than reading this paragraph!
