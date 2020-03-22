@@ -1,0 +1,60 @@
+[
+  {
+    "creationDate": 1584830639157,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_1584830639157",
+    "isSample": false,
+    "name": "StPatricksDay2018 Theme files ",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/StPatricksDay2018/map_rock.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_rock.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/StPatricksDay2018/map_sea.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_sea.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/StPatricksDay2018/map_sand.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_sand.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/StPatricksDay2018/map_forest.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_forest.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/StPatricksDay2018/aircraft.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/aircraft.png*"
+        }
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active"
+  }
+]

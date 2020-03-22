@@ -1,0 +1,69 @@
+[
+  {
+    "creationDate": 1584837455567,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_1584837455567",
+    "isSample": false,
+    "name": "HellMash Theme file",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/HellMash/aircraft.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/aircraft.png"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/HellMash/map_forest.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_forest.jpg"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/HellMash/map_rock.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_rock.jpg"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/HellMash/map_sand.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_sand.jpg"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/HellMash/map_sea.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_sea.jpg"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/HellMash/mountains.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/mountains.png"
+        }
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active"
+  }
+]
