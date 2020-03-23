@@ -18,7 +18,7 @@
             "codeType": "js",
             "loadTime": "afterPageLoad",
             "type": "code",
-            "value": "javascript:(()=>{config.scalingFactor = 6000;Graphics.resizeRenderer(window.innerWidth,window.innerHeight);})()"
+            "value": "javascript:(()=>{config.scalingFactor = 4500;Graphics.resizeRenderer(window.innerWidth,window.innerHeight);})()"
           }
         ],
         "source": {
