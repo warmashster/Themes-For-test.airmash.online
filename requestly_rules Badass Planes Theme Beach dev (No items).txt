@@ -1,0 +1,96 @@
+[
+  {
+    "creationDate": 1584952572509,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_1584952572509",
+    "isSample": false,
+    "name": "Badass Planes Theme Beach dev (No items)",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://raw.githubusercontent.com/TakenOrNot/badassplanestheme/master/assets/aircraft.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/aircraft.png*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/TakenOrNot/badassplanestheme/master/assetsdev/beach/gui.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/gui.png*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/TakenOrNot/badassplanestheme/master/assetsdev/beach/map_rock_mask.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_rock_mask.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/TakenOrNot/badassplanestheme/master/assetsdev/beach/map_sand.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_sand.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/TakenOrNot/badassplanestheme/master/assetsdev/beach/map_sand_mask.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_sand_mask.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/TakenOrNot/badassplanestheme/master/assetsdev/beach/map_sea.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_sea.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/TakenOrNot/badassplanestheme/master/assetsdev/beach/map_sea_mask.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_sea_mask.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/TakenOrNot/badassplanestheme/master/assetsdev/beach/mountains.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/mountains.png*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/TakenOrNot/badassplanestheme/master/assetsdev/beach/shadows.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/shadows.png*"
+        }
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active"
+  }
+]
