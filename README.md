@@ -20,10 +20,9 @@ The Steps:
 2. I recommend you watch the full video and do the same steps i did for the other theme files.  
 3. Click the `r` button, and the configuration page for Requestly will open.
 4. Choose the blue button (Upload), and select the file you downloaded, "requestly_rules.txt".
-5. You can now close this tab.
-6. Go to [airma.sh](https://test.airmash.online/) and hit `CTRL+F5` ( Mac users: Hold down both `⌘ Cmd`+`⇧ Shift` and press `R`)
-7. How to Download the type of theme file you want Chrome users [from this link](https://youtu.be/yirtFUMG6ZQ). 
-8. Enjoy!
+5. Go to [airma.sh](https://test.airmash.online/) and hit `CTRL+F5` ( Mac users: Hold down both `⌘ Cmd`+`⇧ Shift` and press `R`)
+6. How to Download the type of theme file you want Chrome users [from this link](https://youtu.be/yirtFUMG6ZQ). 
+7. Enjoy!
 
 # How many of these files can you use?
 If you download two Theme (or more) you can upload both (Or more) file (s) theme in requestly rules. You have to leave only one on and turn the other ones off.
