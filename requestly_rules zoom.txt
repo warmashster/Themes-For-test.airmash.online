@@ -1,0 +1,35 @@
+[
+  {
+    "creationDate": 1568920526800,
+    "description": "",
+    "groupId": "",
+    "id": "Script_1568920526800",
+    "isSample": false,
+    "name": "Zoom",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "libraries": [
+          "JQUERY",
+          "UNDERSCORE"
+        ],
+        "scripts": [
+          {
+            "codeType": "js",
+            "loadTime": "afterPageLoad",
+            "type": "code",
+            "value": "javascript:(()=>{config.scalingFactor = 6000;Graphics.resizeRenderer(window.innerWidth,window.innerHeight);})()"
+          }
+        ],
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Equals",
+          "value": "https://test.airmash.online/"
+        }
+      }
+    ],
+    "ruleType": "Script",
+    "status": "Active"
+  }
+]
