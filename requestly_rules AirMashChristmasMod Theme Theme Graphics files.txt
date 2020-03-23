@@ -1,0 +1,132 @@
+[
+  {
+    "creationDate": 1584949075124,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_1584949075124",
+    "isSample": false,
+    "name": "AirMashChristmasMod Theme ",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/AirMashChristmasMod/master/assets/aircraft.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/aircraft.png*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/AirMashChristmasMod/master/assets/gui.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/gui.png*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/AirMashChristmasMod/master/assets/flagsbig.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/flagsbig.png?4*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/AirMashChristmasMod/master/assets/map_forest.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_forest.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/AirMashChristmasMod/master/assets/map_rock.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_rock.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/AirMashChristmasMod/master/assets/map_rock_mask.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_rock_mask.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/AirMashChristmasMod/master/assets/map_sand.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_sand.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/AirMashChristmasMod/master/assets/map_sand_mask.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_sand_mask.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/AirMashChristmasMod/master/assets/map_sea.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_sea.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/AirMashChristmasMod/master/assets/map_sea_mask.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_sea_mask.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/AirMashChristmasMod/master/assets/mountains.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/mountains.png*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/AirMashChristmasMod/master/assets/shadows.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/shadows.png*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/AirMashChristmasMod/master/assets/particles.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/particles.png*"
+        }
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active"
+  }
+]
