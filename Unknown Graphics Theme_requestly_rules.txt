@@ -18,7 +18,7 @@
         }
       },
       {
-        "destination": "https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/master/map_sea_mask%20(1).jpg",
+        "destination": "https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/xvalyagamemaker2039-patch-1/sylar_map_sea_mask.jpg",
         "source": {
           "filters": {},
           "key": "Url",
