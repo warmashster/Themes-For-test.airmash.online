@@ -18,6 +18,24 @@
         }
       },
       {
+        "destination": "https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/themes/hit_circles/assets/particles.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/particles.png*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/xvalyagamemaker2039-patch-1/hit_circles_items.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/items.png?3*"
+        }
+      },
+      {
         "destination": "https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/themes/hit_circles/assets/gui.png",
         "source": {
           "filters": {},
