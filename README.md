@@ -27,7 +27,7 @@ The Steps:
 # How many of these files can you use?
 If you download two Theme (or more) you can upload both (Or more) file (s) theme in requestly rules. You have to leave only one on and turn the other ones off.
 # I Can edit [Airmash](https://test.airmash.online/)(Missile, Upgs, Items) and also [Airmash](https://test.airmash.online/) Particles?
-For those of you i've told about this, No i can edit AIRMASH ITEMS AND MORE [For example](https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/xvalyagamemaker2039-patch-1/AirMash_ChristmasMod_items.png)
+For those of you I've told about this before Reddit post now I can edit AIRMASH ITEMS AND MORE [For example](https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/xvalyagamemaker2039-patch-1/AirMash_ChristmasMod_items.png)
 I can now edit airmash Particles
 
 # What does These Graphics looks like?
