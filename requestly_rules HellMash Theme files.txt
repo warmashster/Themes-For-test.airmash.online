@@ -68,7 +68,7 @@
           "filters": {},
           "key": "Url",
           "operator": "Wildcard_Matches",
-          "value": "https://test.airmash.online/assets/mountains.png"
+          "value": "https://test.airmash.online/assets/items.png?3*"
         }
       }
     ],
