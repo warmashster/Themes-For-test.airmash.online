@@ -18,6 +18,15 @@
         }
       },
       {
+        "destination": "https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/xvalyagamemaker2039-patch-1/Halloween_2018_items.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/items.png?3*"
+        }
+      },
+      {
         "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/Halloween2018/map_forest.jpg",
         "source": {
           "filters": {},
