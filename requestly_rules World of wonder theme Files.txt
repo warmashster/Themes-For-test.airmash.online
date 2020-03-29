@@ -18,12 +18,30 @@
         }
       },
       {
+        "destination": "https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/xvalyagamemaker2039-patch-1/starmash_2_items%20.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/items.png?3*"
+        }
+      },
+      {
         "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/StarMash_2/gui.png",
         "source": {
           "filters": {},
           "key": "Url",
           "operator": "Wildcard_Matches",
           "value": "https://test.airmash.online/assets/gui.png*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/StarMash_2/particles.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/particles.png*"
         }
       },
       {
