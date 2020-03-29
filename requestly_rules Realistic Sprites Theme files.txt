@@ -14,7 +14,16 @@
           "filters": {},
           "key": "Url",
           "operator": "Wildcard_Matches",
-          "value": "https://test.airmash.online/assets/shadows.png"
+          "value": "https://test.airmash.online/assets/shadows.png*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/xvalyagamemaker2039-patch-1/RealisticSprites_items.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/items.png?3*"
         }
       },
       {
@@ -41,7 +50,7 @@
           "filters": {},
           "key": "Url",
           "operator": "Contains",
-          "value": "https://test.airmash.online/assets/map_sand.jpg"
+          "value": "https://test.airmash.online/assets/map_sand.jpg*"
         }
       },
       {
