@@ -36,8 +36,15 @@ I can now edit airmash Particles
 
 [Airmash The golden ages Theme](https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/master/Sylar_Graphics%20Airmash%20The%20golden%20Ages_requestly_rules.txt), [here](https://www.youtube.com/watch?v=kzNJ9rmLJfA), Available only for [Airmash.online](https://airmash.online/)
 
-# Bombita's Theme Looks like
-[STARMASH_2](https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/master/StarMash_2%20Theme_requestly_rules.txt), [here](https://www.youtube.com/watch?v=WKQaLztHMlQ), Available only for [Test.Airmash.online](https://test.airmash.online/)
+[Airmash Plain Grid](https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/master/requestly_rules%20Airmash%20Plain%20Grid%20Theme%20file.txt), [here](https://youtu.be/GePrMrOjiVI), Available only for [Test.Airmash.online](https://test.airmash.online/)
+
+# What are some of the Bombita's Theme Looks like?
+[STARMASH_2](https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/master/StarMash_2%20Theme_requestly_rules.txt), [here](https://youtu.be/WKQaLztHMlQ), Available only for [Test.Airmash.online](https://test.airmash.online/)
+
+[AirMashChristmasMod Theme](https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/master/AirMashChristmasMod%20Theme%20_requestly_rules.txt), [here](https://youtu.be/jO3ZDauGOh0), Available only for [Test.Airmash.online](https://test.airmash.online/)
+
+# What are some xplay's Theme Graphics Looks like?
+[Badass Planes Theme Beach With items](https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/master/requestly_rules%20Badass%20Planes%20Theme%20Beach%20(With%20items)%20requestly_rules.txt), [here](https://youtu.be/H5aglN00xxY), Available only for [Test.Airmash.online](https://test.airmash.online/)
 
 # if you're new and you have'nt check starmash's graphics 
 [Here](https://starma.sh/) and how starmash works [Here](https://molesmalo.github.io/StarWarsMod4AirMash/).
