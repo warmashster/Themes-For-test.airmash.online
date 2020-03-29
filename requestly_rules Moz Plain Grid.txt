@@ -1,0 +1,132 @@
+[
+  {
+    "creationDate": 1584934710438,
+    "description": "",
+    "groupId": "",
+    "id": "Redirect_1584934710438",
+    "isSample": false,
+    "name": "Moz Plain Grid",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "destination": "https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/themes/hit_circles/assets/aircraft.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/aircraft.png*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/xvalyagamemaker2039-patch-1/hit_circles_items.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/items.png?3*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/themes/hit_circles/assets/particles.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/particles.png*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/themes/hit_circles/assets/shadows.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/shadows.png*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/themes/hit_circles/assets/gui.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/gui.png*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/themes/hit_circles/assets/map_forest_grid.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_forest.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/themes/hit_circles/assets/map_rock_mask_grid.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_rock_mask.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/themes/hit_circles/assets/map_sand_mask_grid.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_sand_mask.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/themes/hit_circles/assets/map_sea_mask_grid.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_sea_mask.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/themes/hit_circles/assets/mountains.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/mountains.png*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/themes/hit_circles/assets/map_sea_grid.jpg",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_sea.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/themes/hit_circles/assets/map_forest_grid.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_rock.jpg*"
+        }
+      },
+      {
+        "destination": "https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/themes/hit_circles/assets/map_forest_grid.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/map_sand.jpg*"
+        }
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active"
+  }
+]
