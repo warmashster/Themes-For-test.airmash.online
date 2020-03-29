@@ -36,5 +36,8 @@ I can now edit airmash Particles
 
 [Airmash The golden ages Theme](https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/master/Sylar_Graphics%20Airmash%20The%20golden%20Ages_requestly_rules.txt), [here](https://www.youtube.com/watch?v=kzNJ9rmLJfA), Available only for [Airmash.online](https://airmash.online/)
 
+# Bombita's Theme Looks like
+[STARMASH_2](https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/master/StarMash_2%20Theme_requestly_rules.txt), [here](https://www.youtube.com/watch?v=WKQaLztHMlQ), Available only for [Test.Airmash.online](https://test.airmash.online/)
+
 # if you're new and you have'nt check starmash's graphics 
 [Here](https://starma.sh/) and how starmash works [Here](https://molesmalo.github.io/StarWarsMod4AirMash/).
