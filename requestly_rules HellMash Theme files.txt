@@ -53,8 +53,17 @@
           "value": "https://test.airmash.online/assets/map_sea.jpg"
         }
       },
+            {
+        "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/HellMash/aircraft.png",
+        "source": {
+          "filters": {},
+          "key": "Url",
+          "operator": "Wildcard_Matches",
+          "value": "https://test.airmash.online/assets/aircraft.png"
+        }
+      },
       {
-        "destination": "https://raw.githubusercontent.com/Molesmalo/StarWarsMod4AirMash/master/assets/themes/HellMash/mountains.png",
+        "destination": "https://raw.githubusercontent.com/warmashster/Themes-For-test.airmash.online-zoom-and-dev/xvalyagamemaker2039-patch-1/Hellmash._items.png",
         "source": {
           "filters": {},
           "key": "Url",
