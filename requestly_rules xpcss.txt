@@ -1,0 +1,20 @@
+[
+  {
+    "creationDate": 1518938737087,
+    "description": "",
+    "id": "Redirect_1518938737087",
+    "name": "Testing xp css",
+    "pairs": [
+      {
+        "destination": "https://takenornot.github.io/badassplanestheme/bundle/style.css",
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": "https://airmash.online/assets/style.css?6*"
+        }
+      }
+    ],
+    "ruleType": "Redirect",
+    "status": "Active"
+  }
+]
