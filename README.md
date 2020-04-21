@@ -48,6 +48,3 @@ I can now edit airmash Particles
 
 # if you're new and you have'nt check starmash's graphics 
 [Here](https://starma.sh/) and how starmash works [Here](https://molesmalo.github.io/StarWarsMod4AirMash/).
-
-'''js 
-Var feedback = true
