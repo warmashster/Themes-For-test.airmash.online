@@ -1,0 +1,46 @@
+*/ Unwanted for now */
+window.game.graphics.layers.playernames.visible = false; // For ffa or btr Unless you're using StarMash. 
+window.game.graphics.layers.flags.visible = false;
+window.game.graphics.layers.projectiles.visible = false;
+window.game.graphics.layers.doodads.visible = false; // No mountain's
+window.game.graphics.layers.smoke.visible = false; // Turn off smoke 
+window.game.graphics.layers.thrusters.visible = false; // Turn off thrusters
+window.game.graphics.layers.glows.visible = false;
+window.game.graphics.layers.fields.visible = false;
+window.game.graphics.layers.game.visible = false; // Pause game.
+window.game.graphics.layers.bubbles.visible = false;
+window.game.graphics.layers.flags.visible = false;
+window.game.graphics.layers.smoke.visible = false;
+// kinda needed
+window.game.graphics.layers.ui4.visible = false;
+window.game.graphics.layers.ui3.visible = false;
+window.game.graphics.layers.ui2.visible = false;
+window.game.graphics.layers.ui1.visible = false;
+window.game.graphics.layers.ui0.visible = false;
+
+
+
+/// For ctf ///
+/*AIRMASH HACKS*/
+window.config.mouse = true; // turn on mouse mod
+window.config.minimapSize = 21 * 20; // output 420  
+window.config.maxScoreboard = 18; // scoreboard max player 18
+window.config.maxChatLines = 600; // You will be able to see a msg since the beginning of the match or ffa
+window.config.scalingFactor = 5000; // zoom out to 5000
+window.config.mapHeight // No need of this 
+window.config.mapWidth // No need of this
+window.config.minimapPaddingX = 300; // change minimap y-axis
+window.config.minimapPaddingY = 16; // change minimap y-axis
+window.config.shadowOffsetX  // No need of this  
+window.config.shadowOffsetY // No need of this
+window.config.shadowScaling // no need of this 
+window.config.storage.name = "Putsernamehere"; // username
+window.config.storage.flag = "flagnamehere"; //flag 
+window.config.storage.id = null; //less lag 
+window.config.storage.helpshown = false; // Turn off help mode
+window.config.storage.sound = false; // turn off sound 
+window.game.graphics.layers.ui0.visible = false; // remove ui0 of the Minimap 
+window.game.graphics.layers.shadows.visible = false; // remove shadow
+window.game.graphics.layers.explosions.visible = false; // turn off explosion 
+window.game.graphics.layers.groundobjects.visible = false // remove square box
+window.Players.stealth = true; // stay visible while prowling for yourself. 
