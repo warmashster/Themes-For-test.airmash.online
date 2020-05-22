@@ -34,7 +34,7 @@ window.config.minimapPaddingY = 16; // change minimap y-axis
 window.config.shadowOffsetX  // No need of this  
 window.config.shadowOffsetY // No need of this
 window.config.shadowScaling // no need of this 
-window.config.storage.name = "Putsernamehere"; // username
+window.config.storage.name = "Putusernamehere"; // username
 window.config.storage.flag = "flagnamehere"; //flag 
 window.config.storage.id = null; //less lag 
 window.config.storage.helpshown = false; // Turn off help mode
