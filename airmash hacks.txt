@@ -25,7 +25,7 @@ window.game.graphics.layers.ui0.visible = false;
 window.config.mouse = true; // turn on mouse mod
 window.config.minimapSize = 21 * 20; // output 420  
 window.config.maxScoreboard = 18; // scoreboard max player 18
-window.config.maxChatLines = 600; // You will be able to see a msg since the beginning of the match or ffa
+window.config.maxChatLines = 600; // Make chat line longer
 window.config.scalingFactor = 5000; // zoom out to 5000
 window.config.mapHeight // No need of this 
 window.config.mapWidth // No need of this
